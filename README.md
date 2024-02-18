@@ -1,2 +1,2 @@
-# js-tutorials
+# JAVA SCRIPT FUNDAMENTALS
 Java Script Tutorials
